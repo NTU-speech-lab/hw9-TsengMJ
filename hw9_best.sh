@@ -1,1 +1,1 @@
-python ./Src/test_best. $1 $2 $3
+python ./Src/test_best.py $1 $2 $3
